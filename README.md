@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Isac and I'm just a professional bug creator 🐛</h2>
+<h2 align="left">Hi 👋! My name is Isac and I'm a professional bug creator 🐛</h2>
 
 ###
 
