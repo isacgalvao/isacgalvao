@@ -35,10 +35,6 @@
 
 ###
 
-<img align="center" height="200" src="https://media4.giphy.com/media/2IGcITcJg09VK/giphy.gif?cid=ecf05e47pcsucosl7n4517vnofg5tzn1563h5c978waxcxni&rid=giphy.gif&ct=g"  />
-
-###
-
 <img align="right" height="200" src="https://media4.giphy.com/media/2IGcITcJg09VK/giphy.gif?cid=ecf05e47pcsucosl7n4517vnofg5tzn1563h5c978waxcxni&rid=giphy.gif&ct=g"  />
 
 ###
