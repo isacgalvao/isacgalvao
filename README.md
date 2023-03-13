@@ -35,18 +35,14 @@
 
 ###
 
+<img align="right" height="200" src="https://media4.giphy.com/media/2IGcITcJg09VK/giphy.gif?cid=ecf05e47pcsucosl7n4517vnofg5tzn1563h5c978waxcxni&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31gjktmjqhh4wtl6db5iyptjtlai">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gjktmjqhh4wtl6db5iyptjtlai&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img align="left" height="200" src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47pcsucosl7n4517vnofg5tzn1563h5c978waxcxni&rid=giphy.gif&ct=g"  />
-
-###
-
-<img align="left" height="200" src="https://media4.giphy.com/media/2IGcITcJg09VK/giphy.gif?cid=ecf05e47pcsucosl7n4517vnofg5tzn1563h5c978waxcxni&rid=giphy.gif&ct=g"  />
 
 ###
