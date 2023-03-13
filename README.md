@@ -31,10 +31,6 @@
 
 ###
 
-<img align="left" height="200" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e474xm1xhqycolr31qznkuuk1e04eh3eys6eelepeuf&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31gjktmjqhh4wtl6db5iyptjtlai">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gjktmjqhh4wtl6db5iyptjtlai&count=5&unique=true" alt="Spotify recently played"  />
