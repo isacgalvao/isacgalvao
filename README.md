@@ -43,6 +43,6 @@
 
 ###
 
-<img height="200" src="https://media3.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif?cid=ecf05e470gzez4bh3cq7hsap0aofzv1j1sxw4o3y9osn001v&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif?cid=ecf05e470gzez4bh3cq7hsap0aofzv1j1sxw4o3y9osn001v&rid=giphy.gif&ct=g"  />
 
 ###
